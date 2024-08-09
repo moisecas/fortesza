@@ -38,6 +38,7 @@ Interfaz Gráfica
 Abre la interfaz de Cypress para ejecutar y depurar las pruebas:
 
 npx cypress open
- 
+
+## En el entorno de Cypress ubicar la prueba spec.cy.js en la sección specs 
 
 
